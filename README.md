@@ -1,6 +1,6 @@
-# jncie_doc_scrapper
+# jncie_doc_scraper
 
-Just a document scrapper to download JNCIE (GilmoreGlobal) study materials, which was already reported to Juniper.
+Just a document scraper to download JNCIE (GilmoreGlobal) study materials, which was already reported to Juniper.
 
 ### Requirements
 
